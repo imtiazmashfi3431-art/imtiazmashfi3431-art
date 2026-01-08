@@ -1,16 +1,16 @@
-## Hi there 👋
+## C Programming Roadmap
 
-<!--
-**imtiazmashfi3431-art/imtiazmashfi3431-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository documents my structured journey in learning C programming,
+from fundamentals to advanced concepts.
 
-Here are some ideas to get you started:
+### Covered Topics
+- Basics and syntax
+- Control flow and functions
+- Arrays and strings
+- Pointers and dynamic memory allocation
+- File handling and algorithms
+- Mini projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Repository Status
+This roadmap represents my planned learning structure.
+Folders and programs will be added progressively as I advance.
